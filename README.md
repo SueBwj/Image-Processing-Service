@@ -2,6 +2,8 @@
 
 A RESTful image processing service built with Flask, providing image transformation and storage capabilities.
 
+A roadmap pratice project -- https://roadmap.sh/projects/image-processing-service
+
 基于Flask构建的RESTful图像处理服务，提供图像转换和存储功能。
 
 ## ✨ Features | 功能特点
